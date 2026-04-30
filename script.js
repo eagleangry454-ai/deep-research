@@ -1,4 +1,3 @@
 function search() {
-  let query = document.getElementById("searchBox").value;
-  alert("Searching for: " + query);
+  alert("It works 😏");
 }
